@@ -1,4 +1,2 @@
 # rocketseat-projeto01
-# rocketseat-discover
-# rocketseat-projeto01
-# rocketseat-projeto01
+# Projeto 01 do curso Discover da Rocketseat
